@@ -53,6 +53,7 @@ Key features used include:
 - `California_Housing_ Pricesipynb.pdf` – PDF version of the notebook (for easy viewing)
 - `cleaned_california_housing.csv` – Cleaned dataset
 - `Capstone_Presentation.pdf` – Final project presentation (PDF format)
+- `Summer_Internship_Certificate.pdf` – Official certificate for completing the AI/ML internship program
 
 ---
 
