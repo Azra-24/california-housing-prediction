@@ -50,9 +50,8 @@ Key features used include:
 ## Project Files
 
 - `California_Housing_ Pricesipynb.ipynb` – Complete Jupyter Notebook
+- `California_Housing_ Pricesipynb.pdf` – PDF version of the notebook (for easy viewing)
 - `cleaned_california_housing.csv` – Cleaned dataset
-- `best_model.pkl` – Best estimator selected by GridSearchCV
-- `final_model.pkl` – Final trained model saved for deployment or reuse
 - `Capstone_Presentation.pdf` – Final project presentation (PDF format)
 
 ---
